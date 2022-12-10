@@ -1,0 +1,25 @@
+{
+	"java.project.sourcePaths": [
+		"src"
+	],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/Users/tonynazcomenendez/Desktop/School/COP/Final_Project/Application/lib/javafx.base.jar",
+		"/Users/tonynazcomenendez/Desktop/School/COP/Final_Project/Application/lib/javafx.controls.jar",
+		"/Users/tonynazcomenendez/Desktop/School/COP/Final_Project/Application/lib/javafx.fxml.jar",
+		"/Users/tonynazcomenendez/Desktop/School/COP/Final_Project/Application/lib/javafx.graphics.jar",
+		"/Users/tonynazcomenendez/Desktop/School/COP/Final_Project/Application/lib/javafx.media.jar",
+		"/Users/tonynazcomenendez/Desktop/School/COP/Final_Project/Application/lib/javafx.swing.jar",
+		"/Users/tonynazcomenendez/Desktop/School/COP/Final_Project/Application/lib/javafx.web.jar",
+		"/Users/tonynazcomenendez/Desktop/School/COP/Final_Project/Application/lib/javafx-swt.ja",
+		"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib/javafx-swt.jar",
+		"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib/javafx.base.jar",
+		"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib/javafx.controls.jar",
+		"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib/javafx.fxml.jar",
+		"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib/javafx.graphics.jar",
+		"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib/javafx.media.jar",
+		"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib/javafx.swing.jar",
+		"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib/javafx.web.jar"
+	]
+}

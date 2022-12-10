@@ -1,0 +1,32 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Launch Demo",
+			"request": "launch",
+			"mainClass": "Demo",
+			"projectName": "App_6e076b4c"
+		},
+		{
+			"type": "java",
+			"name": "Launch Demo",
+			"request": "launch",
+			"mainClass": "models.Demo",
+			"projectName": "App_6e076b4c"
+		},
+		{
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"vmArgs": "--module-path \"/Users/tonynazcomenendez/javafx/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+			"type": "java",
+			"name": "Launch App",
+			"request": "launch",
+			"mainClass": "App"
+		}
+	]
+}

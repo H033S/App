@@ -1,0 +1,31 @@
+
+Account: {Balance: 50.0 Interest: 5.0} was successfully created 
+Your account has a balance of $50.00
+Your account has an anual interest of $5.00
+You have perfomed 0 deposits during this month.
+You have perfomed 0 withdraws during this month.
+Deposit of 10.0 was successfuly made.
+Withdraw of 10.0 was successfuly made.
+Your account has a balance of $50.00
+Your account has an anual interest of $5.00
+You have perfomed 1 deposits during this month.
+You have perfomed 1 withdraws during this month.
+Your monthly process have been completedYour account has a balance of $70.83
+Your account has an anual interest of $5.00
+You have perfomed 0 deposits during this month.
+You have perfomed 0 withdraws during this month.
+Account: {Balance: 50.0 Interest: 5.0} was successfully created 
+Your account has a balance of $50.00
+Your account has an anual interest of $5.00
+You have perfomed 0 deposits during this month.
+You have perfomed 0 withdraws during this month.
+Deposit of 10.0 was successfuly made.
+Withdraw of 10.0 was successfuly made.
+Your account has a balance of $50.00
+Your account has an anual interest of $5.00
+You have perfomed 1 deposits during this month.
+You have perfomed 1 withdraws during this month.
+Your monthly process have been completedYour account has a balance of $70.83
+Your account has an anual interest of $5.00
+You have perfomed 0 deposits during this month.
+You have perfomed 0 withdraws during this month.
